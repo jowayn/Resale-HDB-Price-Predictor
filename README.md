@@ -21,8 +21,10 @@ After obtaining the best parameters, the model was retrained with the entire dat
 ## Model Metrics
 
 ```math
-- R^2 of Training data: 0.971 
+- R^2 of Training data: 0.971
+
 - RMSE of Predictions: 47758 
+
 - R^2 of Testing Data: 0.921
 ```
 ### Find information about the valid inputs for town and flat models here:
