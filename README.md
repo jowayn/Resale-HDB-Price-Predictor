@@ -19,4 +19,6 @@ GridSearchCV with 5-Fold Cross Validation was used to tune the hyperparameters i
 
 ## Model Metrics
 
-R^2 of Training data: 0.971\n RMSE of Predictions: 47758\n R^2 of Testing Data: 0.921
+- R^2 of Training data: 0.971 
+- RMSE of Predictions: 47758 
+- R^2 of Testing Data: 0.921
