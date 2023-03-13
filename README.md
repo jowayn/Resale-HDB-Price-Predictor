@@ -2,7 +2,7 @@
 
 A tool based on the XGBoost Regressor to predict resale prices of HDB flats in Singapore, done as part of an assignment in the NUS module EE4802 Learning from Data. 
 
-The XGBoost Regressor not only outperformed other (hyperparameter-tuned) regression models by having significantly lower RMSE (Predictions are likely +/- 48,000), the model also returned the highest coefficient of determination on the test data (0.92), meaning most of the variance of the target variable is captured by the input features. I thought I would share this tool with anyone who wishes to use the tool practically.
+The XGBoost Regressor not only outperformed other (hyperparameter-tuned) regression models by having significantly lower RMSE (Predictions are likely +/- 48,000), the model also returned the highest coefficient of determination on the test data (0.92), meaning most of the variance of the target variable is captured by its relationship with the input features. I thought I would share this tool with anyone who wishes to use the tool practically.
 
 ## Usage
 
