@@ -23,3 +23,5 @@ After obtaining the best parameters, the model was retrained with the entire dat
 - R^2 of Training data: 0.971 
 - RMSE of Predictions: 47758 
 - R^2 of Testing Data: 0.921
+
+![inputs](/valid_inputs.png)
