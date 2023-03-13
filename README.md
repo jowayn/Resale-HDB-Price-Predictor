@@ -10,6 +10,10 @@ Use this tool with Google Colab by importing this notebook onto Google Colab (Fi
 
 If running the notebook locally, also make sure 201701to202303_processed.csv is in the same folder.
 
+Example input-output:
+
+![example](/example_input_output.png)
+
 ## Training Background
 
 The strategy taken was to use data from the year 2022 to present time as the testing data, as it is practical to train data based on an earlier time period in order to get a good gauge of the prices in the future. Data from the start of 2017 to the end of 2021 was used as the training data. The resulting split resulted in a training data size of 116, 676 and testing data of size 31, 601, which roughly translates to 78.7% of the dataset used as training data and 21.3% of the total dataset as testing data.
