@@ -16,6 +16,7 @@ The strategy taken was to use data from the year 2022 to present time as the tes
 
 GridSearchCV with 5-Fold Cross Validation was used to tune the hyperparameters in this model. The optimal parameters found are:
 {'learning_rate': 0.2 'max_depth': 6 'n_estimators': 500}
+After obtaining the best parameters, the model was retrained with the entire dataset to produce this tool. 
 
 ## Model Metrics
 
