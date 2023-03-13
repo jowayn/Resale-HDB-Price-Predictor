@@ -24,6 +24,6 @@ After obtaining the best parameters, the model was retrained with the entire dat
 - RMSE of Predictions: 47758 
 - R^2 of Testing Data: 0.921
 
-### Find information about the valid inputs for town and flat_model here:
+### Find information about the valid inputs for town and flat models here:
 
 ![inputs](/valid_inputs.png)
