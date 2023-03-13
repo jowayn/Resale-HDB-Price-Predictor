@@ -6,7 +6,7 @@ The XGBoost Regressor not only outperformed other (hyperparameter-tuned) regress
 
 ## Usage
 
-Use this tool with Google Colab by importing this notebook onto Google Colab (File > Open Notebook). Download 201701to202303_processed.csv and place it into the same folder as the notebook before running. 
+Use this tool with Google Colab by importing UsersNotebook_Jo_Wayn.ipynb onto Google Colab (File > Open Notebook). Download 201701to202303_processed.csv and place it into the same folder as the notebook before running. 
 
 If running the notebook locally, also make sure 201701to202303_processed.csv is in the same folder.
 
