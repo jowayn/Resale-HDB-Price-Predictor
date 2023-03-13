@@ -1,6 +1,8 @@
 # Resale-HDB-Price-Predictor
 
-A tool based on the XGBoost Regressor to predict resale prices of HDB flats in Singapore. Done as part of an assignment in the NUS module EE4802 Learning from Data. 
+A tool based on the XGBoost Regressor to predict resale prices of HDB flats in Singapore, done as part of an assignment in the NUS module EE4802 Learning from Data. 
+
+As the model returned a an impressive coefficient of determination on the test data (0.92), meaning most of the variance of the target variable is captured by the input features, I thought I would share it with anyone who wishes to use the tool practically. 
 
 ## Usage
 
