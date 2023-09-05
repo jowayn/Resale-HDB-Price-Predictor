@@ -37,4 +37,4 @@ After obtaining the best parameters, the model was retrained with the entire dat
 
 ## Post Script
 
-For anyone that wishes to trace how the [original dataset](https://github.com/jowayn/Resale-HDB-Price-Predictor/blob/main/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv) was transformed, you may do so through reading the [report](https://github.com/jowayn/Resale-HDB-Price-Predictor/blob/main/EE4802%20Assignment%201_Tan%20Jo-Wayn.pdf) 
+For anyone that wishes to trace how the [original dataset](https://github.com/jowayn/Resale-HDB-Price-Predictor/blob/main/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv) was transformed, you may do so through reading the [report](https://github.com/jowayn/Resale-HDB-Price-Predictor/blob/main/EE4802%20Assignment%201_Tan%20Jo-Wayn.pdf).
